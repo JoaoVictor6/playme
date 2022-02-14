@@ -10,13 +10,13 @@ Playme is an open source indie music and podcast streaming platform. created to 
 
 ### See the images from Playme 📸
 
-[![Thumbnail](https://media.discordapp.net/attachments/656235917845069854/942561328214708264/thumb.png?width=844&height=475 "Thumbnail")
+![Thumbnail](https://media.discordapp.net/attachments/656235917845069854/942561328214708264/thumb.png?width=844&height=475 "Thumbnail")
 
 ![Home](https://media.discordapp.net/attachments/656235917845069854/942561327967273020/home-3.png?width=844&height=475 "Home")
 
 ![Home 2](https://media.discordapp.net/attachments/656235917845069854/942562216299880508/home.png?width=844&height=475 "Home 2")
 
-###Primary contributors 👨‍🦲
+### Primary contributors 👨‍🦲
 
 #### [João Victor](https://github.com/JoaoVictor6 "João Victor")
 #### [Miuki(Yuri)](https://github.com/o-miuki "Miuki(Yuri)")
